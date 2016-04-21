@@ -1,0 +1,30 @@
+body{
+			
+	margin: 0 auto;
+	width: 980px;
+	font-family: Arial;
+}
+#container{
+	margin: 0 auto;
+	margin-top: 10px;
+	width: 980px;
+	padding: 20px;
+	border: 1px solid #2874A6;
+
+		    
+}
+#result{
+	background-color: #BBB7B7;
+	color: white;
+	border: 1px solid;
+	padding: 4px;
+}
+button{
+	background-color: #008CBA;
+	color: #FFFFFF;
+	display: inline-block;
+	border: none;
+	border-radius: 10px;
+	padding: 10px;
+
+}
